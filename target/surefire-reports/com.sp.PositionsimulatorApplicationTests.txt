@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sp.PositionsimulatorApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.062 s - in com.sp.PositionsimulatorApplicationTests
